@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuq4u548feKnZKpcV_Ask1llKZIpomDxsKTg&s](https://www.google.com/imgres?q=fishing%20cartoon%20png&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F901%2F69%2Fpng-transparent-fishing-rod-cartoon-fishing-middle-aged-men-hand-photography-aquarium-fish.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-btyyv&docid=7bX9r710QEXsKM&tbnid=KXRA4CZvZgIo-M&vet=12ahUKEwjNnueWzaqIAxWUEkQIHWbPNjgQM3oECFkQAA..i&w=920&h=920&hcb=2&ved=2ahUKEwjNnueWzaqIAxWUEkQIHWbPNjgQM3oECFkQAA)
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuq4u548feKnZKpcV_Ask1llKZIpomDxsKTg&s
 title: "Fish Frenzy Bash"
 date: 2023
 published: true
