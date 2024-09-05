@@ -16,7 +16,7 @@ Fishing frenzy bash is a text based fishing game that I helped create as a team 
 
 Here is some code used to create the pond where the fishing takes place.
 
-```Java
+```java
 public class FishingFrenzyBash {
    /** Max size capacity for pond. */
    static final int POND_SIZE = 56;
