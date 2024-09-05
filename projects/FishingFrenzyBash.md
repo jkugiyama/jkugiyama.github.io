@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuq4u548feKnZKpcV_Ask1llKZIpomDxsKTg&s
+image: img/fishinggame.png
 title: "Fish Frenzy Bash"
 date: 2023
 published: true
@@ -18,4 +18,4 @@ Here is some example code to illustrate Simple Schema use:
 
 {% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
  
-Source: <a href="https://github.com/ICSatKCC/a6-lawa-i-fishing-game-f23-g4_f23_a6">theVacay/vacay</a>
+Source: <a href="https://github.com/ICSatKCC/a6-lawa-i-fishing-game-f23-g4_f23_a6"><i class="large github icon "></i>ICSatKCC/a6-lawa-i-fishing-game-f23-g4_f23_a6</a>
