@@ -55,7 +55,7 @@
     {
       "company": "The Custom Company",
       "position": "Sales Associate",
-      "website": "",
+      "website": "https://www.uniformsbytcc.com/",
       "startDate": "2021-07-01",
       "endDate": "Present",
       "summary": "",
@@ -68,28 +68,14 @@
     {
       "organization": "Kaimuki Middle School",
       "website": "",
-      "position": "",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Volunteer Volleyball Coach",
+      "startDate": "2022-08-01",
+      "endDate": "2024-01-31",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Assisted in a volleyball afterschool program at Kaimuki Middle School, teaching proper form/technique, help players understand the importance of communication, and encourage them to better themselves daily."
       ]
-    }
+    },
   ],
   "awards": [
     {
