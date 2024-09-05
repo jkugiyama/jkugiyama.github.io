@@ -11,7 +11,6 @@ labels:
 summary: "A text based fishing game that my team developed in ICS 211."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
 
 Fishing frenzy bash is a text based fishing game that I helped create as a team project in ICS 211, Fall 2023. Through this project, I was able to strengthen my skills in coding through implementing hierarchal relationships amongst 21 Java files, ultimately demonstrating proper usage of inheritance and polymorphism. Along with that, I was able to practice working alongside a team, with emphasis on communication, as well as engage with the usage of Github.
 
