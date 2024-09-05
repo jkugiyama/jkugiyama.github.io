@@ -1,43 +1,40 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Justin Kugiyama",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "jkugi@hawaii.edu",
+    "phone": "",
+    "website": "https://jkugiyama.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jkugiyama", "url": "https://github.com/jkugiyama/jkugiyama.github.io" },
+      { "network": "linkedin", "username": "jkugiyama", "url": "https://www.linkedin.com/in/justin-kugiyama-72ab73285" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Machine Learning" },
+    { "name": "Data Processing" },
+    { "name": "Robotics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Jupyter" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,41 +42,39 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Kalani High School",
+      "position": "Volleyball Coach",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-02-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Head coach for Kalani JV Boys Volleyball",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Coached players of the Kalani High School JV Boy's Volleyball team proper form/technique, sportsmanship, and what it means to be apart of a team."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "The Custom Company",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2021-07-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Sales Associate at The Custom Company, responsible for restocking, providing quality customer service, and managing inventory."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "organization": "Kaimuki Middle School",
+      "website": "",
+      "position": "",
       "startDate": "2016-01-01",
       "endDate": "Present",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
         "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "
       ]
     },
     {
@@ -98,17 +93,11 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Transfer merit scholarschip",
+      "date": "2024-Present",
+      "awarder": "UH Manoa Office of Admissions",
+      "summary": "Scholarships awarded to incoming transfer students with a minimum overall college GPA of 3.3"
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
