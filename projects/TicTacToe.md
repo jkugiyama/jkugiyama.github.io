@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/TicTacToe.jpg
-title: "TicTacToe (WIP)"
+title: "TicTacToe(WIP)"
 date: 2024
 published: true
 labels:
