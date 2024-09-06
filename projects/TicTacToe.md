@@ -6,7 +6,7 @@ title: "TicTacToe (WIP)"
 date: 2024
 published: true
 labels:
-  - Python
+  - Java
 summary: "A simple Tic Tac Toe game with a GUI, I hope to incoorperate AI into."
 ---
 
@@ -14,7 +14,7 @@ While not the flashiest project to display, it is a project I hope to continue a
 
 Here is the board implementation of the tic-tac-toe with GUI.
 
-``` java
+```java
 public class TicTacToeGUI extends JPanel {
    /********** label. **********/
    private JLabel lTitle = new JLabel("tic-tac-toe");
