@@ -15,11 +15,18 @@ While not the flashiest project to display, it is a project I hope to continue a
 Here is the board implementation of the tic-tac-toe with GUI.
 
 ```java
-public class TicTacToeGUI extends JPanel {
-   /********** label. **********/
-   private JLabel lTitle = new JLabel("tic-tac-toe");
-   /********** array for playable spots. *****/
-   JButton [][] bGrid = {{ new JButton(" "), new JButton(" "), new JButton(" ")},
-         {new JButton(" "), new JButton(" "), new JButton(" ")},
-         {new JButton(" "), new JButton(" "), new JButton(" ") }};
+public class TicTacToeGUIFrame { 
+   /** main method.
+   * @param args not used.
+   */
+   public static void main(String[] args) {
+      JFrame pfr = new JFrame("TicTacToeGUI");
+      
+      pfr.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+         
+      pfr.getContentPane().add(new TicTacToeGUI());
+      
+      
+      pfr.pack();
+      pfr.setVisible(true);
 ```
