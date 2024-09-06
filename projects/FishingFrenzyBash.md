@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/FishingGame2.jpg
-title: "Fish Frenzy Bash"
+title: "Fishing Frenzy Bash"
 date: 2023
 published: true
 labels:
