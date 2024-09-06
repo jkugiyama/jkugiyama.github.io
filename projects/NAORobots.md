@@ -13,12 +13,6 @@ labels:
 summary: "My team conducted expirements and observed the movements of the humanoid NAO robots through Python Programming."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
-
 NAO Robots are robots that are programmable and able to replicate human movement. These robots come jam packed with sensors that allows them to perform miniscule movements that work in tandem with other movements to perform larger actions. A few of the actions we worked with was squatting, walking, taking a step up, and swaying hips like how one would do using a hula hoop. This project was beneficial in the way that it helped promote the importance of properly downloading software and problem solving. Initially, we wanted to use the Aldebaran software, but after running into wall after wall, our instructor decided to switch us over to primarily using PythonSDK, which we were able to find success with. Although we were only able to perform these "baby" movements, it goes to show, not only what the robots were capable of, but also us as programmers.
 
 Here is the code that allowed us to communicate with the robots through the commandline:
