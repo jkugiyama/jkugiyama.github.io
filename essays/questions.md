@@ -11,6 +11,7 @@ labels:
   - StackOverflow
 ---
 
+<img width="300px" class="rounded float-start pe-4" src="../img/Question.jpg">
 
 ## The Big Question
 
@@ -23,11 +24,83 @@ During my search on the website Stack Overflow, a popular site where programmers
 
 ```
 Question: How to use hasNext() from the Scanner class
+Input Format
+
+Read some unknown n lines of input from stdin(System.in) until you reach EOF; each line of input contains a non-empty String.
+
+Output Format
+
+For each line, print the line number, followed by a single space, and then the line content received as input:
+
+Sample Output
+
+Hello world
+I am a file
+Read me until end-of-file.  
+Here is my solution. The problem being I am not able to proceed till EOF. But the output is just:
+
+Hello world
+Here is my code:
+
+public class Solution {
+
+    public static void main(String[] args) {
+        check(1);  // call check method
+    }
+
+    static void check(int count) {          
+        Scanner s = new Scanner(System.in);
+        if(s.hasNext() == true) {
+            String ns = s.nextLine();
+            System.out.println(count + " " + ns);
+            count++;
+            check(count);
+        }
+    } 
+}
 ```
 
 Overall, this is a well built question that has the potential to be asked by other programmers learning java. The user provided their own code, their output, and their expected output. By providing these three things, it can help others to better understand the needs for the code and how to provide answers and solutions to the code.
 
-Insert answer and code
+```
+Answer: Your code does not work because you create a new Scanner object in every recursive call. You should not use recursion for this anyways, do it iteratively instead.
+Iterative version
+
+public class Solution {
+
+    public static void main(String[] args) {
+
+        Scanner s = new Scanner(System.in);
+        int count = 1;
+
+        while(s.hasNext()) {
+            String ns = s.nextLine();
+            System.out.println(count + " " + ns);
+            count++;
+        }
+    }
+}
+Recursive version
+
+public class Solution {
+
+    private Scanner s;
+
+    public static void main(String[] args) {
+
+        s = new Scanner(System.in); // initialize only once
+        check(1);
+    }
+
+    public static void check(int count) {
+        if(s.hasNext()) {
+            String ns = s.nextLine();
+            System.out.println(count + " " + ns);
+            check(count + 1);
+        }
+    }   
+}
+```
 
 The user was able to receive 13 potential answers for their question. I believe this is a smart question, especially with beginner programmers as it can be intimidating to learn a new language. I was in this position before and it is a relatable question.
 
@@ -37,10 +110,11 @@ Let’s talk about not so smart questions. In this example, the user starts off 
 
 ```
 Question: sampling unbalanced data frame columns
+If I have a data frame df, which has five columns: 'A', 'B', 'C', 'D', and 'E', which contains python strings. Currently, 'B', 'C', 'D', and 'E' has unbalanced unique values (i.e., some unique values have more rows than the others). How can I sample df so that column 'B', 'C', 'D', and 'E' have balanced number of unique values (i.e., each unique value in a specific column has the same number of rows)? I want to sample with replacement so that the resulting data frame has the same length as the original data frame, though some rows may be duplicated and some may be omitted. Thanks!
 ```
 
 The user was not able to fully explain their problem and left the whole question unclear. The only response to this question was to provide more information about the example and what the expected output should be.
 
 ## The Importance of Questions
 
-All in all, asking questions is always helpful and shouldn’t be avoided. However, with that being said it is important to format the question in a way that ensures a clear understanding for the question in order to receive quality feedback.
+All in all, asking questions is always helpful and shouldn’t be avoided. However, with that being said, it is important to format the question in a way that ensures a clear description of what is needed or what the expected outcome should be in order to receive quality feedback. Providing an insight to what you may have attempted already, or what your current code is looking like, will help the reader to better understand the question.
