@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/NAORobot.jpg
-title: "NAO Robot"
+title: "NAO Robots"
 date: 2024
 published: true
 labels:
