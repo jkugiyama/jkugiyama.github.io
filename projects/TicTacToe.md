@@ -1,32 +1,24 @@
 ---
 layout: project
 type: project
-image: img/TicTacToe.jpg
-title: "TicTacToe (WIP)"
-date: 2024
+image: img/Kalani.jpeg
+title: "Friday Night Lights Basketball"
+date: 2022
 published: true
 labels:
-  - Java
-summary: "A simple Tic Tac Toe game with a GUI, I hope to incoorperate AI into."
+  - Mentorship
+  - Coaching
+summary: "A program that gives students with special needs or disabilities the oppurtunity to experience being a student athlete."
 ---
 
-While not the flashiest project to display, it is a project I hope to continue adding onto. There are many ways to add onto this such as changing the level of difficulty of AI you play against.
+<p align="center">
+<img width="800px" src="../img/FridayNightLights.jpg">
+</p>
 
-Here is the framework of the tic-tac-toe with GUI.
+## Equal Oppurtunities
+Friday Night Lights is a program that allows students with special needs or disabilities to participate in a basketball game. With the help of student mentors, these playes are able to experience the life of a student athlete. From practices right after school to games under the bright lights with sold out crowds, these students get to feel the inclusion. Through this program, students are also encouraged to engage in physical activity and learn to work with others.
 
-```java
-public class TicTacToeGUIFrame { 
-   /** main method.
-   * @param args not used.
-   */
-   public static void main(String[] args) {
-      JFrame pfr = new JFrame("TicTacToeGUI");
-      
-      pfr.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-         
-      pfr.getContentPane().add(new TicTacToeGUI());
-      
-      
-      pfr.pack();
-      pfr.setVisible(true);
-```
+## Coach Clifford 
+I was fortunate enough to be apart of this program and help mentor my fellow classmates. It truly was a great experience being able to see the players having fun and smiling while playing the game of basketball. I helped the players learn the basic skills of basketball like dribbling, passing, and shooting a ball. One day I was wearing a red shirt, and was appointed the nickname Coach Clifford. I enjoyed mentoring/coaching the players to the point where I got interested in committing myself coaching a sport. Now I find myself coaching both middle school and high school volleyball.
+
+For pictures of the game, please visit: <a href="https://scoringlive.com/story.php?storyid=18724"></a>
