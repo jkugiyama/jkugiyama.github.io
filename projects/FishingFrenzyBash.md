@@ -20,13 +20,9 @@ summary: "A text based fishing game that my team developed in ICS 211."
 
 Fishing frenzy bash is a text based fishing game that I helped create as a team project in ICS 211, Fall 2023. Essentially, it is a two player game, where the two players go head to head trying to catch the biggest fish to help them win. The game takes place over the course of a year, where the two players will take turns, each having three attempts to catch a fish every month. When hooking a fish, the player can choose to release the fish, or keeping the fish and adding it to their bag. However, there are rules in regards to each fish ranging from size regulations, fishing methods, and fishing seasons. Failure to follow these rules will result in the player empyting their bag, making it harder to win. In the end, the winner is decided by whoever has the largest three fish on average. 
 
-## My Contributions
+## Biggest Takeaways from the Project
 
-In this project, I was tasked with implementing the add and empty bag functions for each player to use.
-
-## The Takeaways from This Project
-
-Through this project, I was able to strengthen my skills in coding through implementing hierarchal relationships amongst 21 Java files, ultimately demonstrating proper usage of inheritance and polymorphism. Along with that, I was able to practice working within in a team, with emphasis on communication, as well as engage on the usage of Github.
+In this project, I was tasked with implementing the add and empty bag functions for each player to use. I did so by implementing two linked list, one for each player, and using simple functions that are built into Java to create an add and empty function. Through this project, I was able to strengthen my skills in coding through implementing hierarchal relationships amongst 21 Java files, ultimately demonstrating proper usage of inheritance and polymorphism. Along with that, I was able to practice working within in a team, with emphasis on communication, as well as engage on the usage of Github.
 
 Here is some code used to create the pond where the fishing takes place.
 
