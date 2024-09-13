@@ -10,7 +10,7 @@ labels:
   - Python
   - Vim
   - GitHub
-summary: "My team conducted expirements and observed the movements of the humanoid NAO robots through Python Programming."
+summary: "My team conducted expirements and observed the movements of the humanoid NAO robots through Python programming."
 ---
 
 <p align="center">
