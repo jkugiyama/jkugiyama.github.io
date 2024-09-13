@@ -60,7 +60,7 @@ public class Solution {
 }
 ```
 
-Overall, this is a well built question that has the potential to be asked by other programmers learning java. The user provided their own code, their output, and their expected output. By providing these three things, it can help others to better understand the needs for the code and how to provide answers and solutions to the code.
+Overall, this is a well built question that has the potential to be asked by other programmers learning java. The user provided their own code, their output, and their expected output. By providing these three things, it can help others to better understand the needs for the code and how to provide helpful answers and solutions to the code.
 
 ```
 Answer: Your code does not work because you create a new Scanner object in every recursive call.
@@ -104,7 +104,7 @@ public class Solution {
 }
 ```
 
-The user was able to receive 13 potential answers for their question. I believe this is a smart question, especially with beginner programmers as it can be intimidating to learn a new language. I was in this position before and it is a relatable question.
+The user was able to receive 13 potential answers for their question. I believe this is a smart question, especially for beginner programmers who are finding it intimidating to learn a new language. I was in this position before and it is a relatable question that I have found myself wondering about once.
 
 ## The Not so Smart Way
 
@@ -119,7 +119,7 @@ a specific column has the same number of rows)? I want to sample with replacemen
 same length as the original data frame, though some rows may be duplicated and some may be omitted. Thanks!
 ```
 
-The user was not able to fully explain their problem and left the whole question unclear. The only response to this question was to provide more information about the example and what the expected output should be.
+The user was not able to fully explain their problem and left the whole question unclear. The only response to this question was another user asking to provide more information about the example and what the expected output should be.
 
 ## The Importance of Questions
 
