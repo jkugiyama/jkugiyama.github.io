@@ -14,7 +14,7 @@ summary: "My team conducted expirements and observed the movements of the humano
 ---
 
 <p align="center">
-<img width="700px" src="../img/naoRobots.jpeg">
+<img width="700px" src="../img/naoGroup.jpg">
 </p>
 
 ## What Are NAO Robots
