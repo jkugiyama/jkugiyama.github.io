@@ -24,22 +24,21 @@ During my search on the website Stack Overflow, a popular site where programmers
 
 ```
 Question: How to use hasNext() from the Scanner class
-Input Format
 
+Input Format:
 Read some unknown n lines of input from stdin(System.in) until you reach EOF; each line of input contains a non-empty String.
 
-Output Format
-
+Output Format:
 For each line, print the line number, followed by a single space, and then the line content received as input:
 
-Sample Output
-
+Sample Output:
 Hello world
 I am a file
 Read me until end-of-file.  
-Here is my solution. The problem being I am not able to proceed till EOF. But the output is just:
 
+Here is my solution. The problem being I am not able to proceed till EOF. But the output is just:
 Hello world
+
 Here is my code:
 
 public class Solution {
