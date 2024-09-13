@@ -12,7 +12,7 @@ summary: "A program that gives students with special needs or disabilities the o
 ---
 
 <p align="center">
-<img width="800px" src="../img/FridayNightLights.jpg">
+<img width="600px" src="../img/FridayNightLights.jpg">
 </p>
 
 ## Equal Oppurtunities
@@ -21,4 +21,4 @@ Friday Night Lights is a program that allows students with special needs or disa
 ## Coach Clifford 
 I was fortunate enough to be apart of this program and help mentor my fellow classmates. It truly was a great experience being able to see the players having fun and smiling while playing the game of basketball. I helped the players learn the basic skills of basketball like dribbling, passing, and shooting a ball. One day I was wearing a red shirt, and was appointed the nickname Coach Clifford. I enjoyed mentoring/coaching the players to the point where I got interested in committing myself coaching a sport. Now I find myself coaching both middle school and high school volleyball.
 
-For pictures of the game, please visit: <a href="https://scoringlive.com/story.php?storyid=18724"></a>
+For pictures of the game, please visit: https://scoringlive.com/story.php?storyid=18724
