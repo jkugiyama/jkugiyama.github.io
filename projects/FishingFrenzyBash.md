@@ -12,7 +12,7 @@ summary: "A text based fishing game that my team developed in ICS 211."
 ---
 
 <p align="center">
-<img align=centered width="1000px" class="rounded float-start pe-4" src="../img/FishFamily.png">
+<img width="500px" height="400px" src="../img/FishFamily.png">
 </p>
 
 
