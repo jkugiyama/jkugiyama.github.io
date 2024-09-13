@@ -62,7 +62,9 @@ public class Solution {
 Overall, this is a well built question that has the potential to be asked by other programmers learning java. The user provided their own code, their output, and their expected output. By providing these three things, it can help others to better understand the needs for the code and how to provide answers and solutions to the code.
 
 ```
-Answer: Your code does not work because you create a new Scanner object in every recursive call. You should not use recursion for this anyways, do it iteratively instead.
+Answer: Your code does not work because you create a new Scanner object in every recursive call.
+You should not use recursion for this anyways, do it iteratively instead.
+
 Iterative version
 
 public class Solution {
@@ -109,7 +111,11 @@ Let’s talk about not so smart questions. In this example, the user starts off 
 
 ```
 Question: sampling unbalanced data frame columns
-If I have a data frame df, which has five columns: 'A', 'B', 'C', 'D', and 'E', which contains python strings. Currently, 'B', 'C', 'D', and 'E' has unbalanced unique values (i.e., some unique values have more rows than the others). How can I sample df so that column 'B', 'C', 'D', and 'E' have balanced number of unique values (i.e., each unique value in a specific column has the same number of rows)? I want to sample with replacement so that the resulting data frame has the same length as the original data frame, though some rows may be duplicated and some may be omitted. Thanks!
+If I have a data frame df, which has five columns: 'A', 'B', 'C', 'D', and 'E', which contains python strings.
+Currently, 'B', 'C', 'D', and 'E' has unbalanced unique values (i.e., some unique values have more rows than the others).
+How can I sample df so that column 'B', 'C', 'D', and 'E' have balanced number of unique values (i.e., each unique value in
+a specific column has the same number of rows)? I want to sample with replacement so that the resulting data frame has the
+same length as the original data frame, though some rows may be duplicated and some may be omitted. Thanks!
 ```
 
 The user was not able to fully explain their problem and left the whole question unclear. The only response to this question was to provide more information about the example and what the expected output should be.
