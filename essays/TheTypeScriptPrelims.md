@@ -11,11 +11,11 @@ labels:
   - Software Engineering
 ---
 
-<img width="275px" class="rounded float-start pe-4" src="../img/dontgiveup.jpg">
+<img width="350px" class="rounded float-start pe-4" src="../img/dontgiveup.jpg">
 
 ## A New Challenge Awaits 
 
-Walking into my first class of ICS 314, I was anticipating a rigorous course just through the words of peers and the name itself, Software Engineering. That expectation was soon met upon learning that we needed to pick up a new language within the next week. I felt overwhelmed as this wave of stress came crashing down on me, leaving me to panic about the following days to come. It was only the first week and I was slapped across the face with about 140 exercises revolving around JavaScript/TypeScript. 
+Walking into my first class of ICS 314, I was anticipating a rigorous course just through the words of peers and the name itself, Software Engineering. This expectation was soon met upon learning that we needed to pick up a new language within the next week. I felt overwhelmed as this wave of stress came crashing down on me, leaving me to panic about the following days to come. It was only the first week and I was slapped across the face with about 140 exercises revolving around JavaScript/TypeScript. Computer science has the reputation of being one of the harder majors, and this course just adds to that argument.
 
 ## Fight or Flight
 
@@ -23,4 +23,4 @@ It felt intimidating to open up the tab to reveal the exercises. Upon clicking o
 
 ## Pressure Creates Diamonds
 
-Now about athletic software engineering. While stressful, I feel it is a great way to learn and practice coding. The idea of putting students into situations that may replicate the same stress levels of a coding interview or an actual software engineering job seems very beneficial. It is a unique learning experience I have not received before and can only hope it will assist my learning in the way I think it will. In my software engineering class, we do these problems called WODs, short for Workout of the Day which is basically a timed coding exercise that puts students in stress induced situations to practice problem solving and critical thinking skills. With the completion of my first in class practice WOD, I would say I enjoyed the experience. Yes it was stressful, but that is the excitement of it. I understand that future WODs will only get more challenging and failure is bound to arrive, but for now I have to stay optimistic and keep pushing in the right direction.
+Now about athletic software engineering. While stressful, I feel it is a great way to learn and practice coding. The idea of putting students into situations that may replicate the same stress levels of a coding interview or an actual software engineering job seems very beneficial. It is a unique learning experience I have not received before and can only hope that it will assist my learning in the way I think it will. In my software engineering class, we do these problems called WODs, short for Workout of the Day, which is basically a timed coding exercise that puts students in stress induced situations to practice problem solving and critical thinking skills. With the completion of my first in class practice WOD, I would say I enjoyed the experience. Yes it was stressful, but that is the excitement of it. I understand that future WODs will only get more challenging and failure is bound to arrive, but for now I have to stay optimistic and keep pushing in the right direction.
