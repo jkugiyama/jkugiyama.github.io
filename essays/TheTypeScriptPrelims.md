@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/dontgiveup.jpg">
+<img width="275px" class="rounded float-start pe-4" src="../img/dontgiveup.jpg">
 
 ## A New Challenge Awaits 
 
