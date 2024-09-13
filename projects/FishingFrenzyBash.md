@@ -11,7 +11,10 @@ labels:
 summary: "A text based fishing game that my team developed in ICS 211."
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/FishFamily.png">
+<img <div> align=centered width="1000px" class="rounded float-start pe-4" src="../img/FishFamily.png"</div>>
+
+
+
 
 
 
