@@ -13,6 +13,10 @@ labels:
 summary: "My team conducted expirements and observed the movements of the humanoid NAO robots through Python Programming."
 ---
 
+<p align="center">
+<img width="700px" src="../img/naoRobots.jpeg">
+</p>
+
 ## What Are NAO Robots
 NAO Robots are robots that are programmable and able to replicate human movement. These robots come jam packed with sensors that allows them to perform miniscule movements that work in tandem with other movements to perform larger actions. 
 
