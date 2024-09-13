@@ -11,11 +11,11 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/dontgiveup.jpg">
+<img width="320px" class="rounded float-start pe-4" src="../img/dontgiveup.jpg">
 
 ## A New Challenge Awaits 
 
-Walking into my first class of ICS 314, I was anticipating a rigorous course just through the words of peers and the name itself, Software Engineering. This expectation was soon met upon learning that we needed to pick up a new language within the next week. I felt overwhelmed as this wave of stress came crashing down on me, leaving me to panic about the following days to come. It was only the first week and I was slapped across the face with about 140 exercises revolving around JavaScript/TypeScript. Computer science has the reputation of being one of the harder majors, and this course just adds to that argument.
+Walking into my first class of ICS 314, I was anticipating a rigorous course just through the words of peers and the name itself, Software Engineering. This expectation was soon met upon learning that we needed to pick up a new language within the next week and be able to proficiently code in it. I felt overwhelmed as this wave of stress came crashing down on me, leaving me to panic about the following days to come. It was only the first week and I was slapped across the face with about 140 exercises revolving around JavaScript/TypeScript. Computer science has the reputation of being one of the harder majors, and this course just adds to that argument.
 
 ## Fight or Flight
 
