@@ -23,6 +23,7 @@ Is there such thing as a stupid question? With teachers and professors always en
 During my search on the website Stack Overflow, a popular site where programmers can ask questions and receive feedback from other programmers, I was able to see both sides of the story. It was clear to see what attributes helped questions get helpful answers and what attributes led to questions being ignored. One question I stumbled upon was about how to use the hasNext() method from a scanner class in Java. If this sounds like a whole new language, you can think of it as a carnival ride worker looking for an open seat on the ride, and if there’s an open seat, then they let people onto the ride. Now let’s examine the question.
 
 ```
+
 Question: How to use hasNext() from the Scanner class
 
 Input Format:
