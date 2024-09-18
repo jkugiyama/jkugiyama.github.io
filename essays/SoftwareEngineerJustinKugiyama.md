@@ -14,7 +14,7 @@ labels:
 
 ##  Connecting to the World of Technology
 
-I can not say I have always been interested in the world of technology. Throughout my childhood, I was always outdoors around sports. From playing basketball and volleyball, to watching my brother play baseball or my sister cheerleading. I am not saying I did not use any technology as a kid, I just preferred to be outside. Flash forward to my seventh grade year, it was then I started getting into technology. I found myself joining a project where we worked with solar powered RC cars. That experience sparked the interest I had for electronics and technology. Entering my freshman year I got a PS4 and that is when the technology world took me in. Obsessed with video games, I wanted to learn more about how they ran and just play them daily. 
+I can not say I have always been interested in the world of technology. Throughout my childhood, I was always outdoors and around sports. From playing basketball and volleyball, to watching my brother play baseball or my sister cheerleading. I am not saying I did not use any technology as a kid, I just preferred to be outside. Flash forward to my seventh grade year, it was then I started getting into technology. I found myself joining a project where we worked with solar powered RC cars. That experience sparked the interest I had for electronics and technology. Entering my freshman year I got a PS4 and that is when the technology world took me in. Obsessed with video games, I wanted to learn more about how they ran and just play them daily. 
 
 
 ## One Day or Day One
