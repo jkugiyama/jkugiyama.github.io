@@ -14,7 +14,7 @@ labels:
 
 ## What are Coding Standards?
 
-From having a certain amount of spaces to indent, to only using single quotes for a string, a representation of characters like words or sentences, coding standards are like the parents reminding you to make your bed and to quit slouching. It is a software engineering technique used to help with formatting code neatly and maintaining a consistent way of coding. This practice helps to write code in a uniform manner and makes it more readable to allow for other programmers to follow along easier, as long as they themselves follow the same standards. A way to think of it is like writing an essay. Everyone writing an essay must follow proper indentation, puncuation, grammar, and spacing rules to help with structure and readability. 
+From having a certain amount of spaces to indent, to only using single quotes for a string, a representation of characters like words or sentences, coding standards are like the parents reminding you to make your bed and to quit slouching. It is a software engineering technique used to help with formatting code neatly and maintaining a consistent way of coding. This practice helps to write code in a uniform manner and makes it more readable to allow for other programmers to follow along easier, as long as they themselves follow the same standards. A way to think of it is like writing an essay. Everyone writing an essay must follow proper indentation, puncuation, grammar, and spacing rules to help with structure and readability. While it may take extra time to go through each formatting error, coding standards is a good habit to practice as it only would benefit one.
 
 ## The Cheat Code to Learning a New Language?
 
