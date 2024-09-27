@@ -10,11 +10,11 @@ labels:
   - Coding Standards
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/codingstandards.png">
+<img width="250px" class="rounded float-start pe-4" src="../img/codingstandards.png">
 
 ## What are Coding Standards
 
-From having a certain amount of spaces to indent, to only using single quotes for a string, a representation of characters like words or sentences, coding standards are like the parents reminding you to make your bed and to quit slouching. It is a software engineering technique used to help with formatting code neatly and maintaining a consistent way of coding. This practice helps to make code more readable and uniform to allow for other programmers to follow along easier, if they follow the same standards. A way to think of it is like writing an essay. Everyone must follow proper indentation, puncuation, grammar, and spacing rules. 
+From having a certain amount of spaces to indent, to only using single quotes for a string, a representation of characters like words or sentences, coding standards are like the parents reminding you to make your bed and to quit slouching. It is a software engineering technique used to help with formatting code neatly and maintaining a consistent way of coding. This practice helps to make code more readable and uniform to allow for other programmers to follow along easier, if they follow the same standards. A way to think of it is like writing an essay. Everyone must follow proper indentation, puncuation, grammar, and spacing rules. While I may not fully agree with the effectiveness of coding standards, I feel that it is an important skill to develop as it will help the flow for collaboration projects, and it is also a common practice in companies.
 
 ## The Cheat Code to Learning a New Language?
 
