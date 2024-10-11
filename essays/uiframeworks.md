@@ -25,6 +25,6 @@ It takes time to learn anything, but whether that topic is worth learning or not
 
 For users just browsing the internet, it may be hard to notice any difference between a website that uses UI frameworks versus a website that doesn't. For example, Lanikai Juice has a website that does not use UI frameworks. Despite not using a framework, Lanikai Juices's website matches the visual and accessability of it's competitors website. On the contrary, Banan's website utilizes Bootstrap 5, a UI framework.
 
-<img width="600px" class="rounded float-start pe-4" src="../img/banan.png"> <img width="600px" class="rounded float-start pe-4" src="../img/lanikai.png">
+<img width="640px" class="rounded float-start pe-4" src="../img/banan.png"> <img width="640px" class="rounded float-start pe-4" src="../img/lanikai.png">
 
 Comparing the two, there is not much difference when it comes to the functionality. Both have relatively similar layouts and both display their products well. The main difference between the websites, is what is going on behind the scenes. 
