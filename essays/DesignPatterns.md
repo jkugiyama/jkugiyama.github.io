@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="https://miro.medium.com/v2/resize:fit:720/1*t9pXNsn5rUaeECmNTA1m0Q.png">
+<img height="400px" class="rounded float-start pe-4" src="https://miro.medium.com/v2/resize:fit:720/1*t9pXNsn5rUaeECmNTA1m0Q.png">
 
 ## What are Design Patterns?
 
