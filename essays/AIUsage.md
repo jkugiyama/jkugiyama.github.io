@@ -11,13 +11,13 @@ labels:
 ---
 
 <p align="center">
-  <img width="250px" class="rounded" src="https://neurodigital.my/wp-content/uploads/2024/03/do-something-chatgpt-meme.webp">
+  <img width="250px" class="rounded" src="https://ares.decipherzone.com/blog-manager/uploads/ckeditor_Chat%20Gpt%20Memes%2015.png">
 </p>
 
-# The Age of AI
+## The Age of AI
 Artificial Intelligence or AI has grown significantly in recent years and gained popularity amongst students. Anyone is able to copy a question and paste it into an AI generative tool such as ChatGPT or GitHub Copilot, and then receive a fairly accurate answer. With a process as simple as this, these generative AI tools basically become the student. However, there are students that make the most out of these generative AI tools, instead of copying and pasting questions and getting answers. Things such as proofreading an essay, or generating a study set for an exam, or even planning out a daily routine for someone. 
 
-# Personal Experience
+## Personal Experience
 ### Experience WODs
 For experience WODS, I avoided using any AI as I did not have a need to find an answer in a given time. For most of them, an instructional video was provided, which allowed for me to look back on and guide me through these experience WODs. 
 
@@ -66,19 +66,16 @@ AI has certainly influenced my learning experience in this class. It helped guid
 
 
 ## Practical Applications
-AI has made significant strides in real-world projects and simulations within software engineering. Tools like GitHub Copilot are transforming coding practices by offering real-time suggestions, error detection, and optimization, allowing students to write code more efficiently. AI-powered collaborative platforms, such as hackathons, help students work on real-world problems and integrate AI into their solutions. In industry, AI is used for automating code reviews, detecting vulnerabilities, and predicting defects, demonstrating its potential to improve productivity and accuracy in software development. AI tools are effective in increasing efficiency and reducing errors but require human oversight for maximum impact.
+AI has advanced in real-world software engineering projects, with tools like GitHub Copilot offering real-time suggestions, error detection, and optimization to improve coding efficiency. AI-powered platforms, such as hackathons, enable students to solve real-world problems and integrate AI solutions. In industry, AI automates code reviews, detects vulnerabilities, and predicts defects, boosting productivity and accuracy. While AI enhances efficiency and reduces errors, human oversight is still necessary for optimal results.
 
 ## Challenges and Opportunities
-AI in software engineering education faces challenges like bias and over-reliance on tools. AI systems can inherit biases, which may affect code generation and bug detection. Students may also depend too heavily on AI, which could hinder their understanding of core principles. However, AI offers opportunities for personalized learning by adapting to students' strengths and weaknesses. It can also provide automated feedback, allowing instructors to focus on interactive teaching. AI fosters collaboration in projects, enabling students to work on real-world challenges together, enhancing their skills.
+AI in software engineering education faces challenges like bias and over-reliance on tools, which can affect code generation and student understanding. However, it also offers personalized learning, automated feedback, and opportunities for collaboration, helping students tackle real-world challenges and improve their skills.
 
 ## Comparative Analysis
-Traditional software engineering education emphasizes lectures and exercises that provide a solid theoretical foundation but may lack engagement and real-world exposure. AI-enhanced approaches offer real-time feedback and adapt to students' needs, making learning more dynamic. While traditional methods foster deep understanding, AI tools help students develop practical skills faster by providing automated solutions. AI-driven learning increases engagement, knowledge retention, and real-world problem-solving, whereas traditional methods may be slower in developing these aspects.
+Traditional software engineering education focuses on theory through lectures and exercises but can lack engagement and real-world application. AI-enhanced learning provides real-time feedback, adapts to students' needs, and accelerates practical skill development. While traditional methods build deep understanding, AI boosts engagement, retention, and problem-solving, achieving results more quickly.
 
 ## Future Considerations
-AI’s future role in software engineering education includes advanced intelligent tutoring systems that guide students through problem-solving, offering tailored resources and feedback. AI can help personalize curricula, ensuring students learn at their own pace. It can also align education with industry trends, keeping it relevant to fields like machine learning and cloud computing. Challenges such as ethical concerns and data privacy must be addressed, but AI’s potential to foster critical thinking, creativity, and collaboration in education is promising.
+AI’s future in software engineering education includes smart tutoring systems that offer personalized feedback and resources, adapting to students’ learning speeds. It can align curricula with industry trends like machine learning and cloud computing. While challenges such as ethics and data privacy remain, AI promises to enhance critical thinking, creativity, and collaboration.
 
 ## Conclusion
-AI is transforming software engineering education by enhancing engagement, efficiency, and practical skills. While challenges like over-reliance and bias exist, the benefits of personalized learning, real-world applications, and collaboration are significant. As AI evolves, it will continue to shape education, preparing students for the future of software development with greater interactivity and relevance.
-
-
-
+AI is transforming software engineering education by boosting engagement, efficiency, and practical skills. While challenges like bias and over reliance exist, its benefits, such as personalized learning, real world applications, and enhanced collaboration, are significant. As AI evolves, it will increasingly shape education, preparing students for the future of software development.
