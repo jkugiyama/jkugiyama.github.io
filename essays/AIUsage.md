@@ -11,7 +11,7 @@ labels:
 ---
 
 <p align="center">
-  <img width="250px" class="rounded" src="https://ares.decipherzone.com/blog-manager/uploads/ckeditor_Chat%20Gpt%20Memes%2015.png">
+  <img width="500px" class="rounded" src="https://ares.decipherzone.com/blog-manager/uploads/ckeditor_Chat%20Gpt%20Memes%2015.png">
 </p>
 
 ## The Age of AI
