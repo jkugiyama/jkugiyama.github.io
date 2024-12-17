@@ -10,13 +10,15 @@ labels:
   - Artificial Intelligence
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="https://neurodigital.my/wp-content/uploads/2024/03/do-something-chatgpt-meme.webp">
+<p align="center">
+  <img width="250px" class="rounded" src="https://neurodigital.my/wp-content/uploads/2024/03/do-something-chatgpt-meme.webp">
+</p>
 
-# A Love Story With AI
+# The Age of AI
 Artificial Intelligence or AI has grown significantly in recent years and gained popularity amongst students. Anyone is able to copy a question and paste it into an AI generative tool such as ChatGPT or GitHub Copilot, and then receive a fairly accurate answer. With a process as simple as this, these generative AI tools basically become the student. However, there are students that make the most out of these generative AI tools, instead of copying and pasting questions and getting answers. Things such as proofreading an essay, or generating a study set for an exam, or even planning out a daily routine for someone. 
 
 # Personal Experience
-## Experience WODs
+### Experience WODs
 For experience WODS, I avoided using any AI as I did not have a need to find an answer in a given time. For most of them, an instructional video was provided, which allowed for me to look back on and guide me through these experience WODs. 
 
 ### In-class Practice WODs
@@ -59,7 +61,7 @@ I often used AI for quality assurance, especially with ESLint errors as they app
 One specific thing I used AI for in ICS 314 that was not listed, was to compare two different languages for a function, as sometimes different languages were used in the instructions and the instructional videos.
 
 
-# Impact on Learning and Understanding
+## Impact on Learning and Understanding
 AI has certainly influenced my learning experience in this class. It helped guide me through WODs, providing quick and efficient solutions. AI has enhanced my learning, preparing for time crunch situations and being able to work under pressure
 
 
