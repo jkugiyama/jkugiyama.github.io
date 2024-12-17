@@ -12,50 +12,50 @@ labels:
 
 <img width="250px" class="rounded float-start pe-4" src="https://neurodigital.my/wp-content/uploads/2024/03/do-something-chatgpt-meme.webp">
 
-## A Love Story With AI
+# A Love Story With AI
 Artificial Intelligence or AI has grown significantly in recent years and gained popularity amongst students. Anyone is able to copy a question and paste it into an AI generative tool such as ChatGPT or GitHub Copilot, and then receive a fairly accurate answer. With a process as simple as this, these generative AI tools basically become the student. However, there are students that make the most out of these generative AI tools, instead of copying and pasting questions and getting answers. Things such as proofreading an essay, or generating a study set for an exam, or even planning out a daily routine for someone. 
 
-## Personal Experience
-# Experience WODs
+# Personal Experience
+## Experience WODs
 For experience WODS, I avoided using any AI as I did not have a need to find an answer in a given time. For most of them, an instructional video was provided, which allowed for me to look back on and guide me through these experience WODs. 
 
-# In-class Practice WODs
+### In-class Practice WODs
 At first, I tried to avoid using AI during the in-class practice WODs, but after the first two I decided to include the usage of AI in order to finish within the given time.
 
-# In-class WODs
+### In-class WODs
 Similarly to the practice WODs, I tried avoiding the usage of AI, but after the first two and a little bit of encouragement to make use of AI, I decided it would be worth it for the sake of my grade and learning. I feel that being able to properly use AI will continue to be a practice that surfaces often, especially with the rapid growth of AI. Being able to incorporate it into our coding, will only help us get faster results.
 
-# Essays
+### Essays
 For essays, I did not use any AI because I felt that it would not be expressing my views and opinions. 
 
-# Final project
+### Final project
 For the final project, I used AI to explain the errors I was getting while working on it. I did not use it explicitly to write a function, rather to help fix what was wrong with it.
 
-# Learning a concept / tutorial
+### Learning a concept / tutorial
 When it comes to learning a concept, I didn’t use AI. Instead I looked up other videos to aid my learning and explain things I could not quite understand.
 
-# Answering a question in class or in Discord
+### Answering a question in class or in Discord
 I did not use AI to answer a question in class or Discord.
 
-# Asking or answering a smart-question
+### Asking or answering a smart-question
 I normally looked up the smart-question through online resources first, but if I was unsuccessful, then I resorted to AI to answer the question.
 
-# Coding example
+### Coding example
 I have used AI before to provide a coding example for concepts I did not fully understand, such as functional programming.
 
-# Explaining code
+### Explaining code
 I have used AI to explain code, especially when a line was giving an error or not working correctly. It would normally provide the reasoning as to why the code was not working and offer help to resolve the problem.
 
-# Writing code
+### Writing code
 I also have used AI to write code, more specifically code within the WODs.
 
-# Documenting code
+### Documenting code
 I have not used AI to document code, rather I normally documented it myself to ensure I understood the purpose of a line of code.
 
-# Quality assurance
+### Quality assurance
 I often used AI for quality assurance, especially with ESLint errors as they appeared often.
 
-# Other uses in ICS 314 not listed
+### Other uses in ICS 314 not listed
 One specific thing I used AI for in ICS 314 that was not listed, was to compare two different languages for a function, as sometimes different languages were used in the instructions and the instructional videos.
 
 
