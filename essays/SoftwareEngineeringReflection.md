@@ -10,7 +10,7 @@ labels:
   - Group Projects
 ---
 
-<img width="500px" class="rounded" src="https://www.clarkson.edu/sites/default/files/2023-06/Software-Engineering-Hero-1600x900.jpg">
+<img width="500px" class="rounded float-start pe-4" src="https://www.clarkson.edu/sites/default/files/2023-06/Software-Engineering-Hero-1600x900.jpg">
 
 ## Reflecting on Software Engineering: Beyond Web Application Development
 
