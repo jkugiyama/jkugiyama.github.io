@@ -4,7 +4,7 @@ type: project
 image: img/kalani.png
 title: "Friday Night Lights Basketball"
 date: 2022
-published: true
+published: false
 labels:
   - Mentorship
   - Coaching

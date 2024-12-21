@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Pathway To Success"
+title: "Continuing the Climb"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-16
 published: True

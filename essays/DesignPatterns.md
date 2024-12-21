@@ -4,7 +4,7 @@ type: essay
 title: "Learning From Other Mistakes"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-05
-published: true
+published: false
 labels:
   - Learning
   - Software Engineering
