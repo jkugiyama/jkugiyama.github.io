@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ricecooker.png
 title: "Rice Cooker Recipes"
-date: 2023
+date: 2024
 published: true
 labels:
   - Typescript
