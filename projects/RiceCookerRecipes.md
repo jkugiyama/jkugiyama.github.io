@@ -75,4 +75,4 @@ export default ListPage;
 
 Asides from building upon teamwork skills and building a web application, this project helped to provide an insight of what it is like to work in a software engineering environment. An important topic that was demonstrated in this project was issue driven project management. It is the idea of breaking a large task into multiple smaller tasks in order to make them easier to manage as well as prevent conflicts within code. This allowed for our team to work efficiently, and made it easier to see where our code was successful or unsuccessful.
 
-Source: <a href="https://github.com/ICSatKCC/a6-lawa-i-fishing-game-f23-g4_f23_a6"><i class="large github icon "></i>ICSatKCC/a6-lawa-i-fishing-game-f23-g4_f23_a6</a>
+Source: <a href="https://rice-cooker.vercel.app/"></i>https://rice-cooker.vercel.app</a>
